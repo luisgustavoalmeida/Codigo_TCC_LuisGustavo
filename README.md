@@ -32,3 +32,6 @@ This project showcases the implementation of a home automation system using the 
 
    ```bash
    git clone https://github.com/luisgustavoalmeida/Codigo_TCC_LuisGustavo.git
+   
+   Youtube video detailing and showing this project running:
+   [YouTube Video](https://youtu.be/SzaZPuNGjWI)
