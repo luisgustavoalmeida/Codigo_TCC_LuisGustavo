@@ -20,7 +20,7 @@ O sistema utiliza tecnologias avançadas como **RTOS (Real-Time Operating System
 ---
 ### Demonstração do Projeto
 
-Assista ao vídeo no YouTube que detalha e demonstra o funcionamento do sistema de automação residencial:
+Assista ao vídeo no YouTube que detalha e demonstra o funcionamento do sistema de automação residencial clicando na imagem abaixo:
 
 [![Clique para assistir ao vídeo no YouTube](https://img.youtube.com/vi/SzaZPuNGjWI/0.jpg)](https://youtu.be/SzaZPuNGjWI)
 
